@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+instance/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Config
+*.cfg
